@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(10, 10, 112);
+    color: darkseagreen;
+}
+h1{
+    color: rgb(245, 0, 0);
+}
+span{
+    color: chartreuse;
+}
+h2{
+    color: rgb(247, 1, 1);
+}
+li{
+    color: rgb(175, 3, 255);
+}
+h4{
+    background-color: brown;
+    color: burlywood;
+}
+a{
+    color: aqua;
+}
